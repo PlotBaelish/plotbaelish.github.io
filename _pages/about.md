@@ -29,7 +29,7 @@ latest_posts:
 
 I am a first-year MSCS student at UIUC, fortunate to be advised by <a href="https://cs.stanford.edu/~jiaxuan/">Prof. Jiaxuan You</a>. I received my Bachelor’s degree in Computer Science from the School of EECS, Peking University, in 2025.
 
-Currently, my research interests primarily focus on <span style="color:rgb(62, 30, 176);">the application of LLMs, with an emphasis on the interaction between humans and LLMs</span>. Key areas of interest include:
+Currently, my research interests primarily focus on <span style="color:rgb(229, 14, 222);">the application of LLMs, with an emphasis on the interaction between humans and LLMs</span>. Key areas of interest include:
 
 - **LLM Personalization.** Developing lightweight LLM personalization frameworks that leverage interaction data to address challenges such as high computational costs and privacy concerns in existing methods.
 
