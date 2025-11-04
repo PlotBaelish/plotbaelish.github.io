@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-resume",
-          title: "resume",
+          title: "Resume",
           description: "Download my Resume in PDF format.",
           section: "Navigation",
           handler: () => {
