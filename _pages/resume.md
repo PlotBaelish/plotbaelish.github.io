@@ -1,11 +1,11 @@
 ---
-layout: cv
-permalink: /cv/
-title: CV
+layout: resume
+permalink: /resume/
+title: resume
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/Yihang_Sun_Resume_UIUC.pdf
-description: Download my CV in PDF format.
+description: Download my Resume in PDF format.
 toc:
   sidebar: left
 ---
