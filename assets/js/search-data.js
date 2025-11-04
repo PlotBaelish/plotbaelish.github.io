@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Download my CV in PDF format.",
+        },{id: "nav-resume",
+          title: "resume",
+          description: "Download my Resume in PDF format.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/resume/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-excited-to-share-that-grapheval-has-been-accepted-at-iclr-2025-check-out-the-project-page-here-grapheval-project",
+          title: 'Excited to share that GraphEval has been accepted at ICLR 2025! 🎉 Check...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-am-thrilled-to-share-that-i-have-officially-graduated-from-peking-university-with-a-bachelor-s-degree-in-information-and-computational-science-a-huge-thank-you-to-my-alma-mater-and-all-my-friends-over-the-past-four-years-for-your-support-and-encouragement",
+          title: 'I am thrilled to share that I have officially graduated from Peking University...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-am-excited-to-embark-on-a-new-journey-as-i-officially-start-my-mscs-degree-at-uiuc-i-will-be-working-under-the-guidance-of-prof-jiaxuan-you-this-marks-a-fresh-beginning-and-a-thrilling-chapter-in-my-academic-life",
+          title: 'I am excited to embark on a new journey as I officially start...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
