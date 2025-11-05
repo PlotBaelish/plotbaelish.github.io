@@ -31,7 +31,7 @@ I am a first-year MSCS student at UIUC, fortunate to be advised by <a href="http
 
 Currently, my research interests primarily focus on <span style="color:rgb(229, 14, 222);">the application of LLMs, with an emphasis on the interaction between humans and LLMs</span>. Key areas of interest include:
 
-- **LLM Personalization.** Developing lightweight LLM personalization frameworks that leverage interaction data to address challenges such as high computational costs and privacy concerns in existing methods.
+- **LLM Personalization.** Developing lightweight LLM personalization frameworks that effectively leverage user–LLM interaction data to better infer and align with user preferences.
 
 - **Enhancing LLMs with Graphs.** Graphs can formalize entities with interconnected relationships, making them well-suited to enhance LLMs, which handle vast amounts of common knowledge and tackle complex semantic tasks.
 
