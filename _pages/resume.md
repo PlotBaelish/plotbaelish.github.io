@@ -1,7 +1,7 @@
 ---
 layout: resume
 permalink: /resume/
-title: Resume
+title: resume
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/Yihang_Sun_Resume_UIUC.pdf
